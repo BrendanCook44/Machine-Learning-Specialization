@@ -17,7 +17,7 @@ For more information about the certification, visit the [Coursera course page](h
   - Project 1: K-Means Clustering
   - Project 2: Recommender System Using Collaborative Filtering
   - Project 3: Recommender System Using Neural Networks
-  - Project 4: Lundar Lander: Q-Learning & Reinforcement Systems
+  - Project 4: Lunar Lander: Q-Learning & Reinforcement Systems
 
 ## How to Use
 1. Clone the repository:
