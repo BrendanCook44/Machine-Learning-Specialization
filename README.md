@@ -1,6 +1,6 @@
-# Machine Learning Specialization Certification Projects
+# Machine Learning Specialization
 
-This repository contains all files and projects associated with the completion of the Machine Learning Specialization Certification offered by Stanford and DeepLearning.AI.
+This repository contains all projects & assignments associated with the completion of the Machine Learning Specialization offered by Stanford and DeepLearning.AI.
 
 For more information about the certification, visit the [Coursera course page](https://www.coursera.org/specializations/machine-learning-introduction).
 
